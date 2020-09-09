@@ -1,6 +1,6 @@
 ## Step to install fbbrute
 1. apt install git
-2. git clone https://github.com/msmajhi/fbbrute.git
+2. git clone https://github.com/itishree-01/fbbrute.git
 3. cd fbbrute
 4. chmod +x *
 5. apt install python2 
