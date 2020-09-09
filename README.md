@@ -1,4 +1,4 @@
-## Stem to install fbbrute
+## Step to install fbbrute
 1. apt install git
 2. git clone https://github.com/msmajhi/fbbrute.git
 3. cd fbbrute
